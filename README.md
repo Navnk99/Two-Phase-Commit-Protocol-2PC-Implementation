@@ -32,8 +32,3 @@ The 2PC protocol aims to resolve issues in distributed transactions across multi
 - `tests/`: Contains tests for verifying the correctness of the 2PC protocol under various failure conditions.
 - `docs/`: Contains documentation and analysis of the 2PC protocol, including responses to controlled and random node breakdowns.
 
-## How to Run
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
