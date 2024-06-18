@@ -32,3 +32,16 @@ The 2PC protocol aims to resolve issues in distributed transactions across multi
 - `tests/`: Contains tests for verifying the correctness of the 2PC protocol under various failure conditions.
 - `docs/`: Contains documentation and analysis of the 2PC protocol, including responses to controlled and random node breakdowns.
 
+## How To Run
+We have 4 files server,client0,client2 and cordinatorinterface
+
+1. Open 3 terminals
+2. Run the server file using javac server.java to compile. 
+3. Use java server.java to run the code.
+4. Run the client0 file using javac client0.java to compile.
+5. Use java client0.java to run the code.
+6. Run the client2 file using javac client2.java to compile.
+7. Use java client2.java to run the code.
+
+When the nodes are connected we can see the various option types displayed so by choosing the options we can interact with the nodes.
+
